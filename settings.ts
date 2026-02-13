@@ -57,8 +57,8 @@ export const SETTINGS: Settings = {
     { id: 30, name: "Alika", parent: "Samsul", quote: "pina love lana & pina mode on diaktifkan.", photo: "https://files.catbox.moe/36vpo7.jpg", isDev: false },
     { id: 31, name: "Sulthan", parent: "Budi", quote: "King of my world.", photo: "https://files.catbox.moe/i9y49o.jpg", isDev: false },
     { id: 32, name: "Wisnu", parent: "Eko", quote: "Bijaklah dalam bertindak.", photo: "https://picsum.photos/seed/s32/400/500", isDev: false }
-  ]
-
+  ],
+  
   gallery: {
     fotoKelas: [
       "https://picsum.photos/seed/k1/800/600",
